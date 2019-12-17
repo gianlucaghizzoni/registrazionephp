@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<body>
+<form method="get" action="esegui.php">
+  <h1>accedi<h1>
+  <!--login-->
+  login
+  <input type="text" name="login"><br>
+  <!--password-->
+  password
+  <input type="password" name="password">
+  <br>  
+  <!-- SUBMIT -->
+  <input type="submit" name="invia" value="Invia i dati">
+  <br>
+  <br>
+  <h1>registrazione<h1>
+  <!--login-->
+  login
+  <input type="text" name="login"><br>
+  <!--password-->
+  password
+  <input type="password" name="password"> 
+  <br>
+  <!-- SUBMIT -->
+  <input type="submit" name="invia" value="Invia i dati">
+ 
+</form>
+</html>
+</body>
